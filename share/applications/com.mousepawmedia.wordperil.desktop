@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Word Peril
+Comment=A party game for word nerds.
+Exec=wordperil
+Icon=com.mousepawmedia.wordperil
+Type=Application
+Categories=Game;BoardGame;
+Terminal=false
+Name[en_US]=Word Peril

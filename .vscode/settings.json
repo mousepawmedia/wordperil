@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.peril": "json"
+    },
+    "cSpell.words": [
+        "isalpha",
+        "itertools",
+        "qlcd",
+        "unhighlight"
+    ],
+    "cSpell.ignoreWords": [
+        "aeiou",
+        "objs",
+        "puzzle",
+        "puzzle objs"
+    ]
+}

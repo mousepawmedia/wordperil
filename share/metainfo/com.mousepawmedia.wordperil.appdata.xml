@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 MousePaw Media -->
+<component type="desktop-application">
+    <id>com.mousepawmedia.wordperil</id>
+    <metadata_license>CC-BY-3.0</metadata_license>
+    <project_license>BSD-3-Clause</project_license>
+    <name>Word Peril</name>
+    <summary>A party game for word nerds.</summary>
+
+    <description>
+        <p>
+            A live-play word game for three players, similar to "Wheel of Fortune" and
+            "Hangman", with "Jeopardy"-inspired scoring. Great for parties,
+            special events, or family game night.
+        </p>
+        <p>
+            The game is displayed on a single screen, and the keyboard used to
+            control the game during live play. On screen prompts ensure you
+            always know what's happening.
+        </p>
+        <p>
+            Play Word Peril's default puzzles, or add your own!
+        </p>
+    </description>
+
+    <content_rating type="oars-1.0" />
+
+    <launchable type="desktop-id">com.mousepawmedia.wordperil.desktop</launchable>
+
+    <screenshots>
+        <screenshot type="default">
+            <caption>Players take turn guessing letters</caption>
+            <image>https://mousepawgames.com/img/screenshots/wordperil/guessing_letters.jpg</image>
+        </screenshot>
+        <screenshot>
+            <caption>Fun for two or three players</caption>
+            <image>https://mousepawgames.com/img/screenshots/wordperil/player_setup.jpg</image>
+        </screenshot>
+        <screenshot>
+            <caption>Compete to solve puzzles</caption>
+            <image>https://mousepawgames.com/img/screenshots/wordperil/score_screen.jpg</image>
+        </screenshot>
+        <screenshot>
+            <caption>Try to be the first to solve</caption>
+            <image>https://mousepawgames.com/img/screenshots/wordperil/solving_puzzles.jpg</image>
+        </screenshot>
+    </screenshots>
+
+    <url type="homepage">https://mousepawgames.com/games/omission</url>
+    <developer_name>MousePaw Media</developer_name>
+    <update_contact>support_AT_mousepawmedia.com</update_contact>
+
+    <provides>
+        <binary>wordperil</binary>
+    </provides>
+
+    <releases>
+        <release version="1.1.0" date="2021-03-24">
+            <description>
+                <p>Initial MousePaw Games release.</p>
+            </description>
+        </release>
+    </releases>
+</component>
