@@ -1,0 +1,204 @@
+{
+    "famous people": {
+        "art": [
+            "alberto durero",
+            "auguste renoir",
+            "charles schulz",
+            "claude monet",
+            "edouard manet",
+            "edvard munch",
+            "edward Hhpper",
+            "egon schiele",
+            "eugene delacroix",
+            "frida kahlo",
+            "georges seurat",
+            "georgia o’keeffe",
+            "gustav klimt",
+            "gustave courbet",
+            "henri matisse",
+            "jean-antoine watteau",
+            "johannes vermeer",
+            "leonardo da vinci",
+            "michelangelo",
+            "pablo picasso",
+            "paul cezanne",
+            "paul gauguin",
+            "piero della francesca",
+            "raphael",
+            "rembrandt",
+            "rene magritte",
+            "salvador dali",
+            "sir francis bacon",
+            "titian",
+            "vincent van gough",
+            "william turner",
+        ],
+        "sports": [
+            "abebe bikila, olympian, ethiopia",
+            "babe ruth, baseball usa",
+            "babe didrikson zaharias, olympian, usa",
+            "dhyan chand, hockey, india",
+            "fred perry, wimbledon, uk",
+            "jackie robinson, baseball, usa",
+            "jacques meer, cyclist, netherlands",
+            "jesse owens, olympian, usa",
+            "joe dimaggio, baseball, usa",
+            "kobe bryant, basketball, usa",
+            "lottie dod, wimbledon, uk",
+            "meadowlark lemon, basketball, usa",
+            "nadia comaneci, olympian, romania",
+            "pele, football (soccer), brazil",
+        ],
+        "civil rights & social justice": [
+            "bill wilson, usa",
+            "bobby moore, uk",
+            "william booth, uk",
+            "cecil jackson-cole, uk",
+            "chad varah, uk",
+            "clara barton, usa",
+            "dr. bhim rao ambedkar, india",
+            "dietrich bonhoeffer, germany",
+            "elizabeth cady stanton, uk",
+            "emily pankhurst, uk",
+            "florence nightingale, uk",
+            "frederick douglass, usa",
+            "eva peron, first lady, argentina",
+            "harriet tubman, usa",
+            "ida wells, usa",
+            "mahatma gandhi, india",
+            "malala yousafzai, pakistan",
+            "martin luther king, usa",
+            "mary wollstonecraft",
+            "mother teresa, india",
+            "nelson mandela, south africa",
+            "noam chomsky, usa",
+
+
+        "unsorted",[
+
+            "olaudah equiano",
+            "queen victoria",
+            "rabindranath tagore",
+            "rachel carson",
+            "ralph waldo emerson",
+            "rene descartes",
+            "robert boyle",
+            "robert hooke",
+            "rosa parks",
+            "ruby bridges",
+            "seve ballesteros",
+            "shirin ebadi",
+            "sir donald bradman",
+            "sir francis bacon",
+            "sir isaac newton",
+            "sri aurobindo",
+            "sojourner truth",
+            "sonja henie",
+            "susan b. anthony",
+            "tecumseh",
+            "theodore roosevelt",
+            "thomas clarkson",
+            "thomas jefferson",
+            "thomas payne",
+            "thurgood marshall",
+            "voltaire",
+            "walt disney",
+            "william shakespeare",
+            "william wilberforce",
+            "winston churchill"
+        ]
+
+        "exploration": [
+                "christopher columbus",
+                "daniel boone",
+                "david crockett",
+                "meriwether lewis, usa",
+                "william clark, usa",
+                "jacques cousteau, france",
+            ]
+
+
+        "leaders": [
+                "abraham lincoln, us president",
+                "alexander hamilton",
+                "benazir bhutto",
+                "william penn".
+                "joseph brant, mohawk leader",
+                "chief joseph, nex perce tribe",
+                "crazy horse, oglala lakota chief",
+                "david hill, mohawk chief",
+                "geronimo, chiricahua apache leader",
+                "franklin d. roosevelt, us president",
+                "george washington, us president",
+                "hiawatha, onondaga-mohawk chief?",
+                "john adams, us president",
+                "john horse, black seminole leader, usa",
+                "john f. kennedy, us president",
+                "marcus aurelius, roman emperor",
+                "overton james, chickasaw tribe, usa"
+                "sir francis bacon, uk"
+            ]
+
+        "inventors": [
+                "henry ford",
+            ]
+
+        "journalism" [
+                "margaret fuller, usa",
+                "walter cronkite, usa",
+            ]
+
+        "music": [
+                "ludwig von beethoven",
+            ]
+
+        "stage and screen": [
+                "audrey hepburn"
+            ]
+
+        "philosophy": [
+                "baruch spinoza",
+                "confucius",
+                "gottfried wilhelm von leibniz",
+                "immanuel kant",
+                "jean jacques rousseau",
+                "john locke",
+                "mary wollstonecraft",
+            ]
+
+
+        "scientists & mathemeticians": [
+                "alan turing, mathemetician, computer science",
+                "al-khwarizmi",
+                "albert einstein",
+                "aristotle"
+                "benjamin franklin, usa",
+                "thomas edison",
+                "antoine-laurent de lavoisier",
+                "antonie van leeuwenhoek",
+                "bertrand russell",
+                "blaise pascal",
+                "charles darwin",
+                "christiaan huygens",
+                "e.f. schumacher",
+                "euclid",
+                "galileo",
+                "pythagoras",
+                "johannes kepler",
+                "leonhard euler",
+                "nicholaus copernicus, astronomy",
+                "sir francis bacon, uk",
+            ]
+        "space exploration:"[
+                "neil armstrong, usa",
+            ]
+        ]
+        "writers": [
+            "george bernard shaw",
+            "george orwell",
+            "homer",
+            "leo tolstoy",
+            "sir francis bacon, uk"
+        ]
+    }
+}
