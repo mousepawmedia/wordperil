@@ -208,15 +208,67 @@
             "",
             "",
         ],
+        "Food":[
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+
+
+
+
+        ]
         "Plants": [
 
-            "ivy",
-            "tree",
+            "bamboo",
+            "bushes",
+            "ferns",
+            "flowers",
             "grass",
+            "ivy",
+            "shrubs",
+            "tree",
             "trees",
-            "",
-            "",
+            "vines",
             ""
+        ],
+        "Trees":[
+            "almond tree",
+            "apple tree",
+            "apricot tree",
+            "almond tree",
+            "avocado tree",
+            "ash tree",
+            "banana tree",
+            "birch tree",
+            "cherry tree",
+            "chestnut tree",
+            "coconut tree",
+            "fig tree",
+            "fir tree",
+            "grapefruit tree",
+            "guava tree",
+            "larch tree",
+            "lemon tree",
+            "lime tree",
+            "mango tree",
+            "maple tree",
+            "nectarine tree",
+            "oak tree",
+            "olive tree",
+            "orange tree",
+            "papaya tree",
+            "pear tree",
+            "pecan tree",
+            "peach tree",
+            "plum tree",
+            "spruce tree",
+            "walnut tree",
+
+
+
         ],
         "Weather": [
             "calm",

@@ -26,6 +26,7 @@
             "alaskan husky",
             "alaskan moose",
             "albacore tuna",
+            "alcorn's pocket gopher",
             "allen's chipmunk",
             "allen's hummingbird",
             "allied rock-wallaby",
@@ -379,6 +380,7 @@
             "bull shark",
             "bull snake",
             "bulldog",
+            "buller's pocket gopher",
             "bullfrog",
             "bunch of worms",
             "burmese falcon",
@@ -831,6 +833,7 @@
             "gilbert's potoroo",
             "gilded flicker",
             "gilt-edged tanager",
+            "ginger-yellow bumblebee",
             "ginkgo-toothed beaked whale",
             "girgentana goat",
             "glass frog",
@@ -1853,7 +1856,7 @@
             "southern bettong",
             "southern blue-ringed octopus",
             "southern bottlenose whale",
-            "southern brown bandicoot",,
+            "southern brown bandicoot",
             "southern common cuscus",
             "southern dogface butterfly",
             "southern elephant seal",
@@ -2220,8 +2223,6 @@
             "zebra swallowtail butterfly",
             "zebra-tailed lizard",
             "zenaida dove"
-
-
         ]
     }
 }
