@@ -1,6 +1,6 @@
 {
     "Creatures Puzzle Set": {
-        "Amphibians & Reptiles": [
+        "amphibians & reptiles": [
             "african aquatic sideneck turtle",
             "african spur-thighed tortoise",
             "agassiz desert tortoise",
@@ -35,6 +35,7 @@
             "burrowing asp",
             "cat snake",
             "chinese alligator",
+            "chalazodes bubble nest frog",
             "chuckwalla lizard",
             "coachwhip snake",
             "collared lizard",
@@ -51,6 +52,7 @@
             "desert horned lizard",
             "desert iguana",
             "desert tortoise",
+            "eastern hellbender salamander",
             "eastern massasauga rattlesnake",
             "eastern rattlesnake",
             "egg-eating snake",
@@ -82,6 +84,7 @@
             "king cobra",
             "king snake",
             "knot of toads",
+            ,
             "komodo dragon",
             "blue krait snake ",
             "kukri snake",
@@ -97,6 +100,7 @@
             "marsh frog",
             "mata mata turtle",
             "mexican mole lizard",
+            "mimic poison dart frog",
             "mojave fringe-toed lizard",
             "mojave rattlesnake",
             "moor frog",
@@ -161,7 +165,7 @@
             "yucca night lizard",
             "zebra-tailed lizard"
         ],
-        "Birds": [
+        "birds": [
             "acorn woodpecker",
             "adelie penguin",
             "african collared-dove",
@@ -394,6 +398,7 @@
             "fife fancy canary",
             "flamboyance of flamingos",
             "flame-faced tanager",
+            "flamingo",
             "flammulated owl",
             "flightless cormorant",
             "flock of canada geese",
@@ -502,6 +507,7 @@
             "johnson's tody-flycatcher",
             "juan fernandez firecrown hummingbird",
             "kaempfer's woodpecker",
+            "kea parrot",
             "keel-billed toucan",
             "kentucky warbler",
             "key west quail-dove",
@@ -760,7 +766,6 @@
             "snowy plover",
             "socorro dove",
             "song sparrow",
-            "sooty dunnart",
             "sooty grouse",
             "southern giant petrel",
             "southern rockhopper penguin",
@@ -827,6 +832,7 @@
             "violet gallinule",
             "violet-crowned hummingbird",
             "violet-green swallow",
+            "virginia opossum",
             "wake of buzzards",
             "wake of vultures",
             "walk of snipes",
@@ -891,9 +897,8 @@
             "yucatan nightjar",
             "yucatan poorwill",
             "zenaida dove"
- ],
-
-        "Land Invertebrates": [
+        ],
+        "land invertebrates": [
             "anecic earthworm",
             "american dagger caterpillar",
             "annual cicadas",
@@ -910,6 +915,7 @@
             "black swallowtail butterfly",
             "black widow spider",
             "bladder grasshopper",
+            "blue milkweed beetle",
             "blues butterfly",
             "brown button spider",
             "brown recluse spider",
@@ -981,6 +987,8 @@
             "jumping spider",
             "kaleidoscope of butterflies",
             "katydid cricket",
+            "ladybird beetles",
+            "large milkweed bugs",
             "leaf-curling spider",
             "lesser marsh grasshopper",
             "light brown apple moth",
@@ -988,8 +996,11 @@
             "luna moth caterpillar",
             "lynx spider",
             "matchstick grasshoppers",
+            "mayflies",
             "meadow grasshopper",
             "milbert's tortoiseshell butterfly",
+            "milkweed aphids",
+            "milkweed tussock moth caterpillar",
             "mole cricket",
             "monarch butterflies",
             "monarch butterfly migration",
@@ -1019,6 +1030,7 @@
             "question mark butterfly",
             "rain spider",
             "red admiral butterfly",
+            "red milkweed bug",
             "red-spotted purple butterfly",
             "red-tailed bumblebee",
             "redback spider",
@@ -1033,6 +1045,7 @@
             "skipper butterfly",
             "slater-eating spider",
             "slender groundhopper",
+            "small milkweed bugs",
             "southern dogface butterfly",
             "spicebush swallowtail caterpillar",
             "spiny oak-slug moth caterpillar",
@@ -1040,6 +1053,7 @@
             "spotted ground spider",
             "stick grasshopper",
             "stinging rose caterpillar",
+            "swamp milkweed bug",
             "swarm of bees",
             "sydney funnel-web spider",
             "tarantula hawk",
@@ -1063,8 +1077,7 @@
             "zebra longwing butterfly",
             "zebra swallowtail butterfly"
         ],
-
-        "Mammals": [
+        "mammals": [
             "abbott's grey gibbon",
             "abert squirrel",
             "abyssinian lion",
@@ -1426,12 +1439,12 @@
             "golden-tipped bat",
             "goldman's pocket gopher",
             "goldman's pocket mouse",
+            "gould's long-eared bat",
+            "gould's wattled bat",
             "gray four-eyed opossum",
             "gray koala",
             "gray seal",
             "gray whale",
-            "gould's long-eared bat",
-            "gould's wattled bat",
             "gray-brown koala",
             "gray-collared chipmunk",
             "gray-footed chipmunk",
@@ -1597,12 +1610,12 @@
             "mareeba rock-wallaby",
             "marine otter",
             "markhor goat",
-            "matecumbe key raccoon",
-            "mazama pocket gopher",
             "marsh deer",
             "marsh rabbit",
             "masai lion",
             "masked palm civet",
+            "matecumbe key raccoon",
+            "mazama pocket gopher",
             "meadow jumping mouse",
             "mearn's squirrel",
             "medium llama",
@@ -1635,7 +1648,9 @@
             "muntjac deer",
             "muskox",
             "musky rat-kangaroo",
+            "naked-tailed armadillo",
             "namdapha flying squirrel",
+            "narrow-faced kangaroo rat",
             "narrow-skulled pocket mouse",
             "narwhal",
             "nelson's kangaroo rat",
@@ -1669,9 +1684,9 @@
             "northern nail-tail wallaby",
             "northern naked-tailed armadillo",
             "northern pigtail macaque",
+            "northern pipistrelle",
             "northern plains gray langur",
             "northern pocket gopher",
-            "northern pipistrelle",
             "northern pudu deer",
             "northern tamandua anteater",
             "northern tube-nosed bat",
@@ -1694,10 +1709,10 @@
             "ord's kangaroo rat",
             "oriental basin pocket gopher",
             "pacific gray squirrel",
-            "pacific jumping mouse",
-            "pacific northwest raccoon",
             "pacific gray squirrel",
             "pacific jumping mouse",
+            "pacific jumping mouse",
+            "pacific northwest raccoon",
             "pacific northwest raccoon",
             "painted spiny pocket mouse",
             "paiute ground squirrel",
@@ -1721,8 +1736,6 @@
             "peter's squirrel",
             "philippine porcupine",
             "philippine spotted deer",
-            "polar bear",
-            "polynesian rat",
             "pilot whale",
             "pinckey's capybara",
             "pink fairy armadillo",
@@ -1731,6 +1744,8 @@
             "plains pocket gopher",
             "pod of dolphins",
             "pod of whales",
+            "polar bear",
+            "polynesian rat",
             "porcupine",
             "prickle of porcupines",
             "pride of lions",
@@ -1774,8 +1789,8 @@
             "rock pocket mouse",
             "rock ringtail possum",
             "rock squirrel",
-            "rocky mountain goat",
             "rocky mountain elk",
+            "rocky mountain goat",
             "roe deer",
             "roosevelt elk",
             "roosmalen's dwarf porcupine",
@@ -1846,6 +1861,7 @@
             "snowshoe hare",
             "soft-furred rat",
             "sonoma chipmunk",
+            "sooty dunnart",
             "south african oryx",
             "south american coati",
             "south american river otter",
@@ -1928,8 +1944,8 @@
             "thirteen-lined ground squirrel",
             "three-banded armadillo",
             "tibetan dwarf hamster",
-            "toggenburg goat",
             "timber wolf",
+            "toggenburg goat",
             "toolache wallaby",
             "torch key raccoon",
             "tower of giraffes",
@@ -2016,9 +2032,8 @@
             "yucatan brown brocket deer",
             "yucatan squirrel",
             "zebra herd"
-
         ],
-    "Marine Invertebrates": [
+        "marine invertebrates": [
             "acorn barnacle",
             "american horseshoe crab",
             "american lobster",
@@ -2027,17 +2042,25 @@
             "atlantic blue crab",
             "audience of squid",
             "barnacle",
+            "barrel sponge",
             "bed of clams",
             "bed of oysters",
             "bioluminescent octopus",
+            "black-ball sponge",
             "blobfish",
             "bloom of jellyfish",
             "blue glaucus",
             "blue king crab",
+            "brain sponge",
+            "branching tube sponge",
+            "branching vase sponge",
             "broadclub cuttlefish",
+            "brown encrusting octopus sponge",
+            "brown volcano carpet sponge",
             "caribbean reef octopus",
             "caribbean spiny lobster",
             "chambered nautilus",
+            "chicken liver sponge",
             "chilean basket star",
             "christmas tree worm",
             "cockscomb cup coral",
@@ -2046,6 +2069,7 @@
             "colossal squid",
             "common limpet",
             "consortium of crabs",
+            "convoluted orange sponge",
             "crown-of-thorns starfish",
             "cushion star",
             "decorator crab",
@@ -2053,6 +2077,7 @@
             "dumbo octopus",
             "eccentric sea dollar",
             "edible sea cucumber",
+            "ethereal sponge",
             "flamboyant cuttlefish",
             "geoduck clam",
             "giant barrel sponge",
@@ -2061,32 +2086,47 @@
             "giant clam",
             "giant isopod",
             "giant pacific octopus",
+            "glass sponge",
             "glass squid",
             "hawaiian bobtail squid",
             "humboldt squid",
             "japanese spider crab",
             "kiwa crab",
+            "lavender rope sponge",
+            "loggerhead sponge",
             "mantis shrimp",
             "octopus",
+            "orange elephant ear sponge",
+            "orange lumpy encrusting sponge",
             "peacock mantis shrimp",
             "pink see-through fantasia",
             "queen conch",
+            "red boring sponge",
             "red king crab",
+            "red-orange branching sponge",
             "risk of lobsters",
+            "row pore rope sponge",
             "sea angel",
             "sea pen",
             "sea spider",
             "southern blue-ringed octopus",
             "spanish dancer sea slug",
             "spiny red crab",
+            "stinker sponge",
+            "strawberry vase sponge",
             "striped pyjama squid",
+            "sulphur sponge",
             "tasselled wobbegong",
             "terrible-claw lobster",
             "tiger prawn",
+            "touch-me-not sponge",
             "vampire squid",
-            "white shrimp"
+            "variable boring sponge",
+            "white shrimp",
+            "yellow sponge"
+
         ],
-        "Marine Vertebrates": [
+        "marine vertebrates": [
             "alaska cod",
             "albacore tuna",
             "anglerfish",
@@ -2223,55 +2263,34 @@
             "zebra fish",
             "zebra moray eel",
             "zebra shark"
-
-
-
         ],
-
-    "Transformations": [
-        "big headed caterpillar to pink underwing moth",
-        "christmas light caterpillar to cecropia moth",
-        "convict caterpillar to spanish moth",
-        "darth vader caterpillar to gulf fritillary butterfly",
-        "frangipani hornworm to giant gray sphinx moth",
-        "giant silkworm to luna moth",
-        "oleander caterpillar to polka dot moth",
-        "puss caterpillar to flannel moth",
-        "stinging nettle caterpillar to cup moth",
-        "tent caterpillar to lappet moth",
-        "wooly bear to isabella tiger moth",
-
-
-
-    ],
-    "Geographic Features": [
-        "block waterfalls",
-        "coral reef",
-        "harvest moon",
-        "shoreline lake",
-        "spring-fed ponds"
-
-
-    ],
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]
-}
+        "metamorphosis": [
+            "big headed caterpillar to pink underwing moth",
+            "bipinnaria larvae to crown of thorns starfish",
+            "christmas light caterpillar to cecropia moth",
+            "convict caterpillar to spanish moth",
+            "darth vader caterpillar to gulf fritillary butterfly",
+            "frangipani hornworm to giant gray sphinx moth",
+            "froglet to chalazodes bubble nest frog",
+            "giant silkworm to luna moth",
+            "glow worms to fireflies",
+            "larva to beetle",
+            "larva to flatfish",
+            "larva to ladybird beetles",
+            "larva to nudibranch",
+            "larva to polyp to immortal jellyfish",
+            "larva to pupa to adult bee",
+            "maggot to fly",
+            "nymph to dragonfly",
+            "nymph to mayfly",
+            "nymph to salamander",
+            "tadpole to frog",
+            "tadpole to toad",
+            "oleander caterpillar to polka dot moth",
+            "puss caterpillar to flannel moth",
+            "stinging nettle caterpillar to cup moth",
+            "tent caterpillar to lappet moth",
+            "wooly bear to isabella tiger moth",
+        ]
+    }
 }
