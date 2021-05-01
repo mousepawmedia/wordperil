@@ -62,7 +62,6 @@
             "tomato juice",
             "watermelon and strawberry lemonade",
             "white tea"
-
         ],
         "breads": [
             "bagels and cream cheese",
@@ -171,8 +170,6 @@
             "wasabi sauce",
             "worchestershire sauce",
             "yellow mustard"
-
-
         ],
         "dairy": [
             "abertam cheese",
@@ -358,8 +355,6 @@
             "wagasi cheese",
             "whipped butter",
             "whole milk"
-
-
         ],
         "desserts": [
             "apple compote",
@@ -445,7 +440,7 @@
             "sweet potato pie",
             "teacake",
             "yeast doughnuts",
-            "zucchini bread",
+            "zucchini bread"
         ],
         "fruits & nuts & vegetables": [
             "acorn squash",
@@ -614,7 +609,7 @@
             "yellow onions",
             "yellow squash",
             "zucchini"
-        ]
+        ],
     "main dish": [
             "a big, juicy hamburger",
             "bacon sandwiches",
