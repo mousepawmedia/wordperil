@@ -65,6 +65,7 @@
             "froglet",
             "frogs",
             "fruit bat",
+            "garden snake",
             "gecko",
             "geese",
             "german shepherd",
@@ -192,7 +193,7 @@
             "zebra"
         ],
         "plants": [
-                        "almond tree",
+            "almond tree",
             "apple tree",
             "apricot tree",
             "ash tree",
@@ -235,6 +236,7 @@
             "guava tree",
             "iris",
             "ivy",
+            "kiwi vines",
             "larch tree",
             "leaf",
             "leaves",
@@ -264,7 +266,6 @@
             "pansy",
             "papaya tree",
             "peach tree",
-            "pear tree",
             "pear tree",
             "pecan tree",
             "plum tree",
@@ -301,12 +302,15 @@
             "wood"
         ],
         "food and drink":[
+            "animal crackers",
             "biscuits",
             "bread",
             "cake",
             "cereal",
             "cookies",
             "french fries",
+            "graham crackers",
+            "ice cream",
             "lemonade",
             "milk",
             "pancakes",
