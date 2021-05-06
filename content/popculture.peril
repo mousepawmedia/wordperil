@@ -1,28 +1,51 @@
 {
-    "pop culture": {
+    "Pop Culture Category": {
         "1940s books": [
             "a streetcar named desire by tennessee wiliams",
             "a tree grows in brooklyn by betty smith",
             "all the king's men by robert penn warren",
+            "animal farm by george orwell",
+            "arabella by georgette heyer",
             "black boy by richard wright",
-            "cannery row by jon steinbeck",
-            "compolete poems by robert frost",
+            "cheaper by the dozen by frank b. gilbreth jr",
+            "complete poems by robert frost",
+            "crooked house by agatha christie",
+            "death be not proud by john gunther",
             "death of a salesman by arthur miller",
-            "farewell, my lovely by raymond chandler",
+            "evil under the sun by agatha christie",
+            "farmer giles of ham by j.r.r. tolkien",
+            "five little pigs by agatha christie",
             "for whom the bell tolls by ernest hemingway",
-            "the fountainhead by ayn rand",
             "four quarters by t.s. eliot",
+            "hiroshima by john hersey",
+            "mere christianity by c.s. lewis",
+            "mrs. mike by benedict freedman & nancy freedman",
+            "native son by richard wright",
+            "sad cypress by agatha christie",
+            "screwtape letters by c.s. lewis",
+            "shane by jack schaefer",
+            "survival in auschwitz by primo levi",
+            "that hideous strength by c.s. lewis",
+            "the black stallion by walter farley",
+            "the body in the library by agatha christie",
+            "the diary of a young girl by anne frank",
+            "the egg and I by betty macdonald",
             "the glass menagerie by tennessee williams",
-            "the heart is a lonely hunter by carson mccullers",
-            "the lottery and other stories by shirley jackson",
-            "the naked and the dead by norman mailer",
-            "native son",
+            "the great divorce by c.s. lewis",
+            "the hollow by agatha christie",
+            "the labours of hercules by agatha christie",
+            "the lion, the witch, and the wardrobe by c.s. lewis",
+            "the little prince by antoine de sant-exupery",
+            "the little white horse by elizabeth goudge",
+            "the makioka sisters by jun'ichiro tanizaki",
+            "the moving finger by agatha christie",
+            "the problem of pain by c.s. lewis",
+            "the reluctant widow by georgette heyer",
+            "the snow goose by paul gallico",
+            "the witness for the prosecution by agatha christie",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
+            ""
         ],
         "1940s music": [
             "'round midnight, thelonious monk",
@@ -113,7 +136,7 @@
             "you always hurt the one you love, the mills brohers",
             "you are my sunshine, bing crosby",
             "you'll never know, dick haymes",
-            "to each his own, the ink spots",
+            "to each his own, the ink spots"
         ],
         "1940s movies": [
             "a date with judy",
@@ -548,7 +571,7 @@
             "touch of evil",
             "we're no angels",
             "will success spoil rock hunter",
-            "witness for the prosecution",
+            "witness for the prosecution"
         ],
         "1950s stars": [
             "abraham sofaer",
@@ -796,7 +819,7 @@
             "",
             "",
             "",
-            "",
+            ""
         ],
         "1960s music": [
             "ain't too proud to beg, temptations",
@@ -979,21 +1002,31 @@
             "you're so vain, carly simon",
             "you've got a friend, james taylor"
         ],
-        "1970s movies": [],
-        "1970s stars": [],
+        "1970s movies": [
+            ""
+
+        ],
+        "1970s stars": [
+            ""
+
+        ],
         "1980s music": [
             "ghost riders in the sky, marty robbins",
             "it's not unusual, tom jones",
             "lady marmalade, labelle",
         ],
-        "1980s movies": [],
-        "1980s stars": [],
+        "1980s movies": [
+            ""
+
+        ],
+        "1980s stars": [
+            ""
+
+        ],
         "1990s": [
             "it had to be you, harry connick jr.",
-        ],
-        "",
-        "",
-        "",
-        "",
-    ],
+            ""
+
+        ]
+    }
 }
