@@ -1,50 +1,74 @@
 {
-    "Pop Culture Category": {
+    "Through The Decades Category": {
         "1940s books": [
-            "a streetcar named desire by tennessee wiliams",
-            "a tree grows in brooklyn by betty smith",
-            "all the king's men by robert penn warren",
-            "animal farm by george orwell",
-            "arabella by georgette heyer",
-            "black boy by richard wright",
-            "cheaper by the dozen by frank b. gilbreth jr",
-            "complete poems by robert frost",
-            "crooked house by agatha christie",
-            "death be not proud by john gunther",
-            "death of a salesman by arthur miller",
-            "evil under the sun by agatha christie",
-            "farmer giles of ham by j.r.r. tolkien",
-            "five little pigs by agatha christie",
-            "for whom the bell tolls by ernest hemingway",
-            "four quarters by t.s. eliot",
-            "hiroshima by john hersey",
-            "mere christianity by c.s. lewis",
-            "mrs. mike by benedict freedman & nancy freedman",
-            "native son by richard wright",
-            "sad cypress by agatha christie",
-            "screwtape letters by c.s. lewis",
-            "shane by jack schaefer",
-            "survival in auschwitz by primo levi",
-            "that hideous strength by c.s. lewis",
-            "the black stallion by walter farley",
-            "the body in the library by agatha christie",
-            "the diary of a young girl by anne frank",
-            "the egg and I by betty macdonald",
-            "the glass menagerie by tennessee williams",
-            "the great divorce by c.s. lewis",
-            "the hollow by agatha christie",
-            "the labours of hercules by agatha christie",
-            "the lion, the witch, and the wardrobe by c.s. lewis",
-            "the little prince by antoine de sant-exupery",
-            "the little white horse by elizabeth goudge",
-            "the makioka sisters by jun'ichiro tanizaki",
-            "the moving finger by agatha christie",
-            "the problem of pain by c.s. lewis",
-            "the reluctant widow by georgette heyer",
-            "the snow goose by paul gallico",
-            "the witness for the prosecution by agatha christie",
-            "",
-            "",
+            "a tree grows in brooklyn, betty smith",
+            "all the king's men, robert penn warren",
+            "animal farm, george orwell",
+            "arabella, georgette heyer",
+            "black boy, richard wright",
+            "black lamb and grey falcon, rebecca west",
+            "cheaper, the dozen, frank b. gilbreth jr",
+            "chicken every sunday, rosemary taylor",
+            "complete poems, robert frost",
+            "crooked house, agatha christie",
+            "death be not proud, john gunther",
+            "death of a salesman, arthur miller",
+            "evil under the sun, agatha christie",
+            "fair stood the wind for france, h.e. bates",
+            "farmer giles of ham, j.r.r. tolkien",
+            "five little pigs, agatha christie",
+            "for whom the bell tolls, ernest hemingway",
+            "four quarters, t.s. eliot",
+            "hiroshima, john hersey",
+            "i chose freedom, victor kravchenko",
+            "if this is man, primo levi",
+            "invasion diary, richard tregaskis",
+            "joy in the morning, p.g. wodehouse",
+            "lassie, come-home, eric knight",
+            "let us now praise famous men, james agree & walker evans",
+            "memoirs of the second world war, winston churchill",
+            "mere christianity, c.s. lewis",
+            "misty of chincoteague, marguerite henry",
+            "mrs. mike, benedict freedman & nancy freedman",
+            "my father's dragon, ruth stiles gannett",
+            "my friend flicka, mary o'hara",
+            "n or m, agatha christie",
+            "native son, richard wright",
+            "one,two, buckle my shoe, agatha christie",
+            "paris underground, etta shiber",
+            "perelandra, c.s. lewis",
+            "sad cypress, agatha christie",
+            "screwtape letters, c.s. lewis",
+            "shane, jack schaefer",
+            "smith of wootton major, j.r.r. tolkien",
+            "snow treasure, marie mcswigan",
+            "survival in auschwitz, primo levi",
+            "that hideous strength, c.s. lewis",
+            "the black stallion, walter farley",
+            "the body in the library, agatha christie",
+            "the diary of a young girl, anne frank",
+            "the egg and i, betty macdonald",
+            "the four loves, c.s. lewis",
+            "the golden egg book by margaret wise brown",
+            "the great divorce, c.s. lewis",
+            "the hollow, agatha christie",
+            "the labours of hercules, agatha christie",
+            "the lion, the witch, and the wardrobe, c.s. lewis",
+            "the little prince, antoine de sant-exupery",
+            "the little white horse, elizabeth goudge",
+            "the makioka sisters, jun'ichiro tanizaki",
+            "the moon is down, john steinbeck",
+            "the moving finger, agatha christie",
+            "the problem of pain, c.s. lewis",
+            "the reluctant widow, georgette heyer",
+            "the snow goose, paul gallico",
+            "the story of the trapp family singers, maria von trapp",
+            "the trumpet of the swan, e.b. white",
+            "the walton boys gold in the snow, hal burton",
+            "the witness for the prosecution, agatha christie",
+            "there is a tide, agatha christie",
+            "towards zero, agatha christie",
+            "we couldn't leave dinah, mary treadgold",
             ""
         ],
         "1940s music": [
@@ -77,7 +101,7 @@
             "i've heard that song before, harry james",
             "i love you, bing crosby",
             "i'll be seeing you, bing crosby",
-            "i'll get by, harry james",
+            "i'll get,, harry james",
             "i'll never smile again, tommy dorsey...",
             "i'll walk alone, dinah shore",
             "i'm a big girl now, sammy kaye",
@@ -240,7 +264,7 @@
             "the treasure of the sierra madre",
             "the wistful widow of wagon gap",
             "the wolf man",
-            "they drive by night",
+            "they drive, night",
             "this gun for hire",
             "to have and have not",
             "waterloo bridge",
@@ -370,6 +394,9 @@
             "walter pidgeon",
             "william holden",
             "william powell"
+        ],
+        "1950s books":[
+            "ginny gordon mystery series, julie campbell"
         ],
         "1950s music": [
             "a teenager in love, dion & the belmonts",
@@ -519,7 +546,7 @@
             "man of a thousand faces",
             "mister roberts",
             "my sister eileen",
-            "north by northwest",
+            "north, northwest",
             "on the waterfront",
             "rally 'round the flag, boys!",
             "rear window",
@@ -890,6 +917,20 @@
             "white christmas, bing crosby",
             "wouldn't it be nice, beach boys"
         ],
+        "1970s books":[
+            "all creatures great and small, james herriot",
+            "all things bright and beautiful, james herriot",
+            "all things wise and wonderful",
+            "if only they could talk, james herriot",
+            "it shouldn't happen to a vet, james herriot",
+            "let sleeping vets lie, james herriot",
+            "the hiding place, corrie ten boom",
+            "vet in a spin, james herriot",
+            "vet in harness, james herriot",
+            "vets might fly, james herriot"
+
+        ],
+
         "1970s music": [
             "a horse with no name, america",
             "alone again, gilbert o'sullivan",
@@ -1010,10 +1051,18 @@
             ""
 
         ],
+        "1980s books":[
+            "the lord god made them all, james herriot",
+            "the best of james herriot",
+            "james herriot's dog stories"
+
+
+        ],
+
         "1980s music": [
             "ghost riders in the sky, marty robbins",
             "it's not unusual, tom jones",
-            "lady marmalade, labelle",
+            "lady marmalade, labelle"
         ],
         "1980s movies": [
             ""
@@ -1023,7 +1072,17 @@
             ""
 
         ],
-        "1990s": [
+
+        "1990s books":[
+
+            "every living thing, james herriot",
+            "james herriot's cat stories",
+            "james herriot's yorkshire stories",
+            "james herriot's animal stories"
+
+        ],
+
+        "1990s music": [
             "it had to be you, harry connick jr.",
             ""
 
